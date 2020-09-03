@@ -42,7 +42,7 @@
 <hr>
 <br>
 
-<details align="center">
-  <summary>:zap: Github Stats</summary>
-  <img align="center" alt="Esteban Rocha Github Stats" src="https://github-readme-stats.vercel.app/api?username=Esteban-Rocha&show_icons=true&theme=gruvbox" />
-</details>
+<div align="center">
+  <samp>:zap: Github Stats</samp>
+  <img align="center" alt="Esteban Rocha Github Stats" src="https://github-readme-stats.vercel.app/api?username=Esteban-Rocha&show_icons=true&theme=material-palenight" />
+</div>
