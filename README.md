@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://rocha.codes" rel="noopener" target="_blank">
-    <img src="./img/LogoLong.jpg" alt="header"/>
+    <img src="https://github.com/Esteban-Rocha/Esteban-Rocha/blob/master/img/LogoLong.jpg" alt="Esteban Rocha Logo"/>
   </a>
 </div>
 <br>
