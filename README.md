@@ -3,7 +3,6 @@
     <img src="https://github.com/Esteban-Rocha/Esteban-Rocha/blob/master/img/LogoLong.jpg" alt="Esteban Rocha Logo"/>
   </a>
 </div>
-<br>
 <h1 align="center">Esteban Rocha - Husband, Father and Software Developer</h1>
 
 <p align="center">
