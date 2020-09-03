@@ -13,5 +13,6 @@ I have a profound interest in web technologies, and I specialize in Front-End So
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Esteban Rocha Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteban-rocha" />
+<img align="left" alt="Esteban Rocha Github Stats" src="https://github-readme-stats.vercel.app/api?username=Esteban-Rocha&show_icons=true&theme=gruvbox />
+
 </details>
