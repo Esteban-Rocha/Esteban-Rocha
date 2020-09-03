@@ -43,6 +43,6 @@
 <br>
 
 <div align="center">
-  <samp>:zap: Github Stats</samp>
+  <samp>:zap: Github Stats</samp><br>
   <img align="center" alt="Esteban Rocha Github Stats" src="https://github-readme-stats.vercel.app/api?username=Esteban-Rocha&show_icons=true&theme=material-palenight" />
 </div>
