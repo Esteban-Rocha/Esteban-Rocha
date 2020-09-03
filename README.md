@@ -8,7 +8,7 @@
 
 <p align="center">
   <samp>
-    I’m a Full Stack Functional JavaScript, CSS & WordPress Software Engineer, I like Shell Scripting and mechanical keyboards.<br>I have a profound interest in web technologies, and I specialize in Front-End Software Engineering.
+    I’m a Full Stack Functional JavaScript, CSS & WordPress Software Engineer, I like Shell Scripting and mechanical keyboards.<br><br>I have a profound interest in web technologies, and I specialize in Front-End Software Engineering.
   </samp>
 </p>
 <hr>
