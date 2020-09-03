@@ -9,6 +9,8 @@
   <samp>
     I’m a Full Stack Functional JavaScript, CSS & WordPress Software Engineer, I like Shell Scripting and mechanical keyboards.<br><br>I have a profound interest in web technologies, and I specialize in Front-End Software Engineering.
   </samp>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=esteban-rocha">
 </p>
 <hr>
 
