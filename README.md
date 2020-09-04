@@ -3,11 +3,15 @@
     <img src="https://github.com/Esteban-Rocha/Esteban-Rocha/blob/master/img/LogoLong.jpg" alt="Esteban Rocha Logo"/>
   </a>
 </div>
-<h1 align="center">Esteban Rocha - Husband, Father and Software Developer</h1>
+<h1 align="center">Esteban Rocha<br>Full Stack Software Engineer</h1>
 
 <p align="center">
   <samp>
-    I’m a Full Stack Functional JavaScript, CSS & WordPress Software Engineer, I like Shell Scripting and mechanical keyboards.<br><br>I have a profound interest in web technologies, and I specialize in Front-End Software Engineering.
+    Hello! I’m a Full Stack Functional JavaScript, CSS & WordPress Software Engineer, I like Shell Scripting and mechanical keyboards.<br><br>I have a profound interest in web technologies, and I specialize in Front-End Software Engineering.
+  </samp>
+  <br><br>
+  <samp>
+    These days I'm full into involving myself deeply with W3C Standards and Specs on CSS, HTML5, Web API's, ARIA, etc... CSS design tools, Progressive enhancement with 'CSS first' driven design and development, and the W3C web accessibility initiative (WAI).<br><br>Currently mastering Functional Programming λ with JavaScript ES2019 / Typescript and diving deeply into React and Node JS.
   </samp>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=esteban-rocha">
