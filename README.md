@@ -3,11 +3,11 @@
     <img src="https://github.com/Esteban-Rocha/Esteban-Rocha/blob/master/img/LogoLong.jpg" alt="Esteban Rocha Logo"/>
   </a>
 </div>
-<h1 align="center">Esteban Rocha<br>Full Stack Software Engineer</h1>
+<h1 align="center">Esteban Rocha<br>JavaScript, CSS & WordPress Software Engineer.</h1>
 
 <p align="center">
   <samp>
-    Hello! I’m a Full Stack Functional JavaScript, CSS & WordPress Software Engineer, I like Shell Scripting and mechanical keyboards.<br><br>I have a profound interest in web technologies, and I specialize in Front-End Software Engineering.
+    Hello! I’m a JavaScript, CSS & WordPress Software Engineer, I like Shell Scripting and mechanical keyboards.<br><br>I have a profound interest in web technologies, and I specialize in Front-End Software Engineering.
   </samp>
   <br><br>
   <samp>
