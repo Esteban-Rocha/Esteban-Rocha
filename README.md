@@ -4,7 +4,7 @@
   </a>
 </div>
 <p role="spacer"></p>
-<p align="center">
+<p align="left">
   <samp>
     Hello! I’m a JavaScript, CSS & WordPress Software Engineer, I like Shell Scripting and mechanical keyboards.<br><br>I have a profound interest in web technologies, and I specialize in Front-End Software Engineering.
   </samp>
@@ -13,8 +13,9 @@
     These days I'm full into involving myself deeply with W3C Standards and Specs on CSS, HTML5, Web API's, ARIA, etc... CSS design tools, Progressive enhancement with 'CSS first' driven design and development, and the W3C web accessibility initiative (WAI).<br><br>Currently mastering Functional Programming λ with JavaScript ES2019 / Typescript and diving deeply into React and Node JS.
   </samp>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=esteban-rocha">
 </p>
+<p><img src="https://komarev.com/ghpvc/?username=esteban-rocha"></p>
+
 <hr>
 
 <p align="center">
