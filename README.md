@@ -14,7 +14,7 @@
   </samp>
   <br><br>
 </p>
-<p><img src="https://komarev.com/ghpvc/?username=esteban-rocha"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=esteban-rocha"></p>
 
 <hr>
 
