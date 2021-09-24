@@ -3,8 +3,6 @@
     <img src="https://github.com/Esteban-Rocha/Esteban-Rocha/blob/master/img/LogoLong.jpg" alt="Esteban Rocha Logo"/>
   </a>
 </div>
-<h1 align="center">Esteban Rocha<br>JavaScript, CSS & WordPress Software Engineer.</h1>
-
 <p align="center">
   <samp>
     Hello! I’m a JavaScript, CSS & WordPress Software Engineer, I like Shell Scripting and mechanical keyboards.<br><br>I have a profound interest in web technologies, and I specialize in Front-End Software Engineering.
@@ -93,7 +91,6 @@
     <br>
     <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/notion%20-000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/sketch%20-F7B500.svg?&style=for-the-badge&logo=sketch&logoColor=black"/>
   </ul>
 </p>
 <hr>
