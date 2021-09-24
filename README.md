@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<p align="center">
+<p align="center" style="margin-top: 1rem;">
   <samp>
     Hello! I’m a JavaScript, CSS & WordPress Software Engineer, I like Shell Scripting and mechanical keyboards.<br><br>I have a profound interest in web technologies, and I specialize in Front-End Software Engineering.
   </samp>
