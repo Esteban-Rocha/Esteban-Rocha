@@ -118,8 +118,12 @@
 </p>
 
 <hr>
+
+<div align="center">
+  <img align="center" alt="Esteban Rocha Github Trophies" src="https://github-profile-trophy.vercel.app/?username=Esteban-Rocha&theme=nord" />
+</div>
 <br>
 <div align="center">
-  <samp>:zap: Github Stats</samp><br>
+  <samp>:zap: Github Stats</samp><br><br>
   <img align="center" alt="Esteban Rocha Github Stats" src="https://github-readme-stats.vercel.app/api?username=Esteban-Rocha&show_icons=true&theme=material-palenight" />
 </div>
