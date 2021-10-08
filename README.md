@@ -120,6 +120,7 @@
 <hr>
 
 <div align="center">
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Esteban-Rocha/Esteban-Rocha/blob/master/devcard.svg" width="400" alt="Esteban Dev Card"/></a>
   <img align="center" alt="Esteban Rocha Github Trophies" src="https://github-profile-trophy.vercel.app/?username=Esteban-Rocha&theme=nord" />
 </div>
 <br>
