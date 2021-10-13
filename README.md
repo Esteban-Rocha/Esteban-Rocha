@@ -100,17 +100,8 @@
 <p align="center">
   <samp>Where to find me:</samp><br>
   <ul align="center">
-    <a href="https://www.linkedin.com/in/estebanrocha" rel="noopener" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://github.com/Esteban-Rocha" rel="noopener" target="_blank">
-      <img src="https://img.shields.io/badge/github%20-000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://dev.to/estebanrocha" rel="noopener" target="_blank">
-      <img src="https://img.shields.io/badge/dev.to%20-%23161616.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
-    </a>
-    <a href="https://keybase.io/estebanrocha" rel="noopener" target="_blank">
-      <img src="https://img.shields.io/badge/Keybase%20-33A0FF.svg?&style=for-the-badge&logo=keybase&logoColor=white"/>
+    <a href="https://mylinks.ai/erocha" rel="noopener" target="_blank">
+      <img src="https://img.shields.io/badge/mylinks%20-A3BE8C.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
     </a>
     <br>
 
