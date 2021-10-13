@@ -111,7 +111,7 @@
 <hr>
 
 <div align="center">
-  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Esteban-Rocha/Esteban-Rocha/blob/master/devcard.svg" width="380" alt="Esteban Dev Card"/></a>
+  <a href="https://app.daily.dev/erochaj"><img src="https://github.com/Esteban-Rocha/Esteban-Rocha/blob/master/devcard.svg" width="340" alt="Esteban Dev Card"/></a>
 </div>
 <p role="spacer"></p>
 <div align="center">
