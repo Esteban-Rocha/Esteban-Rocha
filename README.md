@@ -100,7 +100,7 @@
 <p align="center">
   <samp>Where to find me:</samp><br>
   <ul align="center">
-    <a href="https://mylinks.ai/erocha" rel="noopener" target="_blank">
+    <a href="https://mylinks.ai/erocha" target="_blank" rel="noopener">
       <img src="https://img.shields.io/badge/mylinks%20-A3BE8C.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
     </a>
     <br>
@@ -116,9 +116,4 @@
 <p role="spacer"></p>
 <div align="center">
   <img align="center" alt="Esteban Rocha Github Trophies" src="https://github-profile-trophy.vercel.app/?username=Esteban-Rocha&theme=nord" />
-</div>
-<br>
-<div align="center">
-  <samp>:zap: Github Stats</samp><br><br>
-  <img align="center" alt="Esteban Rocha Github Stats" src="https://github-readme-stats.vercel.app/api?username=Esteban-Rocha&show_icons=true&theme=material-palenight" />
 </div>
