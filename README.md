@@ -10,7 +10,7 @@
   </samp>
   <br><br>
   <samp>
-    I like to read and keep up to date on the W3C Standards and Specs on CSS, HTML5, Web APIs, and ARIA. I'm fluent with CSS design tools, Progressive enhancement with 'CSS first' driven design and development and the W3C web accessibility initiative (WAI).<br><br>Currently mastering Functional Programming λ with JavaScript ES12 and also learning NextJS.
+    I like to read and keep up to date with the W3C Standards and Specs on CSS, HTML5, Web APIs, and ARIA. I'm fluent with CSS design tools, Progressive enhancement with 'CSS first' driven design and development and the W3C web accessibility initiative (WAI).<br><br>Currently mastering Functional Programming λ with JavaScript ES12 and also learning NextJS.
   </samp>
   <br><br>
 </p>
