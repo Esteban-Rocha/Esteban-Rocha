@@ -6,11 +6,11 @@
 <p role="spacer"></p>
 <p align="left">
   <samp>
-    Hello! I’m a JavaScript, CSS & WordPress Software Engineer, I like Shell Scripting and mechanical keyboards.<br><br>I have a profound interest in web technologies, and I specialize in Front-End Software Engineering.
+    Hello! I’m a JavaScript, CSS & WordPress Software Engineer, I like Shell Scripting and mechanical keyboards.<br><br>I have a profound interest in web technologies, and I focus & specialize in Frontend Software Engineering. I have a keen eye for design and strong prowess with CSS & SASS.
   </samp>
   <br><br>
   <samp>
-    These days I'm full into involving myself deeply with W3C Standards and Specs on CSS, HTML5, Web API's, ARIA, etc... CSS design tools, Progressive enhancement with 'CSS first' driven design and development, and the W3C web accessibility initiative (WAI).<br><br>Currently mastering Functional Programming λ with JavaScript ES2019 / Typescript and diving deeply into React and Node JS.
+    I like to read and keep up to date on the W3C Standards and Specs on CSS, HTML5, Web APIs, and ARIA. I'm fluent with CSS design tools, Progressive enhancement with 'CSS first' driven design and development and the W3C web accessibility initiative (WAI).<br><br>Currently mastering Functional Programming λ with JavaScript ES12 and also learning NextJS.
   </samp>
   <br><br>
 </p>
