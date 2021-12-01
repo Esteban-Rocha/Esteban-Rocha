@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://rocha.codes" rel="noopener" target="_blank">
-    <img src="https://github.com/Esteban-Rocha/Esteban-Rocha/blob/master/img/LogoLong.jpg" alt="Esteban Rocha Logo"/>
-  </a>
-</div>
-<p role="spacer"></p>
 <p align="left">
   <samp>
     Hello! I’m a JavaScript, CSS & WordPress Software Engineer, I like Shell Scripting and mechanical keyboards.<br><br>I have a profound interest in web technologies, and I focus & specialize in Frontend Software Engineering. I have a keen eye for design and strong prowess with CSS & SASS.
@@ -14,7 +8,17 @@
   </samp>
   <br><br>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=esteban-rocha"></p>
+
+<p align="center">
+  <samp>Where to find me:</samp><br>
+  <ul align="center">
+    <a href="https://rocha.codes" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/mylinks%20-f9b845.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
+    </a>
+    <br>
+
+  </ul>
+</p>
 
 <hr>
 
@@ -95,19 +99,6 @@
     <img src="https://img.shields.io/badge/notion%20-000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
   </ul>
 </p>
-<hr>
-
-<p align="center">
-  <samp>Where to find me:</samp><br>
-  <ul align="center">
-    <a href="https://mylinks.ai/erocha" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/mylinks%20-A3BE8C.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
-    </a>
-    <br>
-
-  </ul>
-</p>
-
 <hr>
 
 <div align="center">
