@@ -26,10 +26,10 @@
   <samp>Languages and Tools of Trade:</samp><br>
   <ul align="center">
     <!--- Begin Languajes Section -->
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <br>
     <!--- End Languajes Section -->
@@ -57,18 +57,6 @@
     <img src="https://img.shields.io/badge/postman%20-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
     <br>
     <!--- End Tools Section -->
-    <!--- Begin Platform Section -->
-    <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/aws%20-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
-    <img src="https://img.shields.io/badge/pantheon%20-000.svg?&style=for-the-badge&logo=pantheon&logoColor=EFD01B"/>
-    <br>
-    <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-    <img src="https://img.shields.io/badge/netlify%20-00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
-    <img src="https://img.shields.io/badge/linode%20-00A95C.svg?&style=for-the-badge&logo=linode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/wpengine%20-40BAC8.svg?&style=for-the-badge&logo=wp-engine&logoColor=white"/>
-    <br>
-    <!--- End Platform Section -->
     <!--- Begin CMS Section -->
     <img src="https://img.shields.io/badge/wordpress%20-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>
     <img src="https://img.shields.io/badge/woo%20-96588A.svg?&style=for-the-badge&logo=woo&logoColor=white"/>
@@ -76,6 +64,16 @@
     <img src="https://img.shields.io/badge/shopify%20-7AB55C.svg?&style=for-the-badge&logo=shopify&logoColor=white"/>
     <br>
     <!--- End CMS Section -->
+    <!--- Begin Platform Section -->
+    <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pantheon%20-000.svg?&style=for-the-badge&logo=pantheon&logoColor=EFD01B"/>
+    <br>
+    <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+    <img src="https://img.shields.io/badge/netlify%20-00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/wpengine%20-40BAC8.svg?&style=for-the-badge&logo=wp-engine&logoColor=white"/>
+    <br>
+    <!--- End Platform Section -->
     <img src="https://img.shields.io/badge/chrome_dev_tools%20-4285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/firefox_dev_tools%20-FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=FFFFFF"/>
     <br>
@@ -93,7 +91,6 @@
     <br>
     <img src="https://img.shields.io/badge/vscode%20-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     <img src="https://img.shields.io/badge/jetbrains%20-000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white"/>
-    <img src="https://img.shields.io/badge/neovim%20-57A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/notion%20-000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
