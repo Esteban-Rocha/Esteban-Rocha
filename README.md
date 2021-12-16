@@ -4,20 +4,29 @@
   </samp>
   <br><br>
   <samp>
-    I like to read and keep up to date with the W3C Standards and Specs on CSS, HTML5, Web APIs, and ARIA. I'm fluent with CSS design tools, Progressive enhancement with 'CSS first' driven design and development and the W3C web accessibility initiative (WAI).<br><br>Currently mastering Functional Programming λ with JavaScript ES12 and also learning NextJS.
+    I like to read and keep up to date with the W3C Standards and Specs on CSS, HTML5, Web APIs, and ARIA. I'm fluent with CSS design tools, Progressive enhancement with 'CSS first' driven design and development and the W3C web accessibility initiative (WAI).
+  </samp>
+  <br><br>
+  <samp>
+    I have experience creating web applications using WordPress, Shopify, and HubSpot, with distributed teams across the US, South America, and Europe. I have a strong design affinity with Frontend Engineering using CSS and Javascript to markup Perfect Pixel layouts from Figma and Sketch. I also advocate for best practices in terms of performance and the W3C Standards.
+  </samp>
+  <br><br>
+  <samp>
+    I'm likewise proficient in Bash Scripting and Unix Systems, and I enjoy and am currently learning functional programming.
+  </samp>
+  <br><br>
+  <samp>
+    I have a C2 Proficient English competency certified by the EF SET. And I am a native Spanish speaker.
   </samp>
   <br><br>
 </p>
 
 <p align="center">
-  <samp>Where to find me:</samp><br>
-  <ul align="center">
-    <a href="https://rocha.codes" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/mylinks%20-f9b845.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
-    </a>
-    <br>
-
-  </ul>
+  <samp>Where to find me:</samp>
+  <br><br>
+  <a href="https://rocha.codes" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/mylinks%20-f9b845.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
 </p>
 
 <hr>
@@ -98,9 +107,6 @@
 </p>
 <hr>
 
-<div align="center">
-  <a href="https://app.daily.dev/erochaj"><img src="https://github.com/Esteban-Rocha/Esteban-Rocha/blob/master/devcard.svg" width="340" alt="Esteban Dev Card"/></a>
-</div>
 <p role="spacer"></p>
 <div align="center">
   <img align="center" alt="Esteban Rocha Github Trophies" src="https://github-profile-trophy.vercel.app/?username=Esteban-Rocha&theme=nord" />
