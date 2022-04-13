@@ -5,7 +5,7 @@
     <br><br>
     I have several years of experience creating web applications using a variety of technologies like PHP 8, Javascript, WordPress, Laravel, HubSpot among others. I have a strong design affinity and strong prowess in Frontend Engineering using CSS, SASS and Javascript to markup beautiful Perfect Pixel layouts from Figma and Sketch UI designs, and I advocate for best practices in terms of clean code, performance and the W3C Standards.
     <br><br>
-    Likewise I'm proficient in Bash Scripting and Unix Systems, and I enjoy and am currently learning functional programming as well as Laravel and Rust as I'm interested in CLI applications and Rust Web Frameworks like Rocket.
+    Likewise I'm proficient in Bash Scripting and Unix Systems, and I'm currently learning functional programming as well as Laravel and Rust as I'm interested in MVC, CLI applications and Rust Web Frameworks like Rocket.
     <br><br>
     I have a C2 Proficient English competency certified by the EF SET. And I am a native Spanish speaker.
     <br><br>
