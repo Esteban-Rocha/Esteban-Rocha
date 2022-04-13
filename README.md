@@ -3,7 +3,7 @@
     <br><br>
     Web technologies are a topic of profound interest to me, and I specialize in PHP, Javascript, CSS and Rust.
     <br><br>
-    I have several years of experience creating web applications using a variety of technologies like PHP 8, Javascript, WordPress, Shopify, HubSpot among others. I have a strong design affinity and strong prowess in Frontend Engineering using CSS, SASS and Javascript to markup beautiful Perfect Pixel layouts from Figma and Sketch UI designs, and I advocate for best practices in terms of clean code, performance and the W3C Standards.
+    I have several years of experience creating web applications using a variety of technologies like PHP 8, Javascript, WordPress, Laravel, HubSpot among others. I have a strong design affinity and strong prowess in Frontend Engineering using CSS, SASS and Javascript to markup beautiful Perfect Pixel layouts from Figma and Sketch UI designs, and I advocate for best practices in terms of clean code, performance and the W3C Standards.
     <br><br>
     Likewise I'm proficient in Bash Scripting and Unix Systems, and I enjoy and am currently learning functional programming as well as Laravel and Rust as I'm interested in CLI applications and Rust Web Frameworks like Rocket.
     <br><br>
