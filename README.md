@@ -3,7 +3,7 @@
     <br><br>
     Web technologies are a topic of profound interest to me, and I specialize in PHP, Rust, Javascript, and CSS.
     <br><br>
-    I have several years of experience creating software primarily for web using various technologies like PHP 8, Rust, Javascript, Laravel, and WordPress. I have a strong design affinity and strong prowess in Frontend Engineering using CSS, SASS, and Javascript to mark up beautiful Perfect Pixel layouts from Figma and Sketch UI designs. I advocate for best practices regarding clean code, performance, and the W3C Standards.
+    I have several years of experience creating web applications using various technologies like PHP 8, Rust, Javascript, Laravel, and WordPress. I have a strong design affinity and strong prowess in Frontend Engineering using CSS, SASS, and Javascript to mark up beautiful Perfect Pixel layouts from UI designs, mainly in Figma. And I advocate for best practices regarding clean code, performance, and the W3C Standards.
     <br><br>
     Likewise, I am proficient in Bash Scripting and Unix Systems. I primarily focus on Laravel for robust MVC monolithic apps and Rust for everything else like CLI and web MVC apps using Tokio.rs and the Rocket Framework.
     <br><br>
