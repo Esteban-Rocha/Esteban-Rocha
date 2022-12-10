@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    where thou might find me?
+    Where thou might find me?
     <br><br>
     <a href="https://rocha.codes" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/contact%20-f9b845.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
