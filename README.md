@@ -1,13 +1,11 @@
 <p align="left">
-    I’m a Software Engineer that likes Strict/Strong Typing, UNIX Shells, Monoliths, and Mechanical Keyboards.
+    Professional Computer Programmer / Software Engineer with a passion for Strict & Strong Typing, Unix Shells, Monolithic Architectures, and Mechanical Keyboards.
     <br><br>
-    Web technologies are a topic of profound interest to me, and I specialize in PHP, Rust, Javascript, and CSS.
+    Web technologies have always been a source of profound interest for me, and I have developed expertise in PHP, Rust, JavaScript, and CSS.
     <br><br>
-    I have several years of experience creating web applications using various technologies like PHP 8, Rust, Javascript, Laravel, and WordPress. I have a strong design affinity and strong prowess in Frontend Engineering using CSS, SASS, and Javascript to mark up beautiful Perfect Pixel layouts from UI designs, mainly in Figma. And I advocate for best practices regarding clean code, performance, and the W3C Standards.
+    With several years of experience, my primary focus and specialization lie in Full-Stack Monolithic Web Applications. Using frameworks such as NextJS, NuxtJS, Laravel, Tokio.rs, and custom WordPress CMS complex implementations. In addition, I am well-versed in Rust for CLI development. I possess exceptional proficiency in Bash Scripting and working with Unix-based systems and shells.
     <br><br>
-    Likewise, I am proficient in Bash Scripting and Unix Systems. I primarily focus on Laravel for robust MVC monolithic apps and Rust for everything else like CLI and web MVC apps using Tokio.rs and the Rocket Framework.
-    <br><br>
-    I have a C2 Proficient English competency certified by the EF SET. And I am a native Spanish speaker.
+    I possess a strong proclivity toward design, and I am adept at Frontend Engineering. I excel in utilizing CSS to translate stunning Perfect Pixel layouts from Figma and Sketch UI designs. And I advocate for best practices, emphasizing clean code, optimal performance, and adherence to W3C Standards.
     <br><br>
 </p>
 
