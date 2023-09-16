@@ -16,8 +16,3 @@
         <img src="https://img.shields.io/badge/contact%20-f9b845.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
     </a>
 </p>
-
-<p align="center">
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Esteban-Rocha&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF8C03" width="700">
-</p>
