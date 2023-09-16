@@ -3,9 +3,9 @@
     <br><br>
     Web technologies have always been a source of profound interest for me, and I have developed expertise in PHP, Rust, JavaScript, and CSS.
     <br><br>
-    With several years of experience, my primary focus and specialization lie in Full-Stack Monolithic Web Applications. Using frameworks such as NextJS, NuxtJS, Laravel, Tokio.rs, and custom WordPress CMS complex implementations. In addition, I am well-versed in Rust for CLI development. I possess exceptional proficiency in Bash Scripting and working with Unix-based systems and shells.
+    With several years of experience, my primary focus and specialization lie in Full-Stack Monolithic Web Applications. Using frameworks such as Laravel, NextJS, NuxtJS, and custom WordPress CMS complex implementations. In addition, I am well-versed in Rust for CLI development. I possess exceptional proficiency in Bash Scripting and working with Unix-based systems and shells.
     <br><br>
-    I possess a strong proclivity toward design, and I am adept at Frontend Engineering. I excel in utilizing CSS to translate stunning Perfect Pixel layouts from Figma and Sketch UI designs. And I advocate for best practices, emphasizing clean code, optimal performance, and adherence to W3C Standards.
+    I possess a strong proclivity toward design, and I am adept at Frontend Engineering. I excel in utilizing vanilla CSS to translate stunning Perfect Pixel layouts from Figma and Sketch UI designs. And I advocate for best practices, emphasizing clean code, optimal performance, and adherence to W3C Standards.
     <br><br>
 </p>
 
