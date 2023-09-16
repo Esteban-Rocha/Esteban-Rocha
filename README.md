@@ -1,7 +1,7 @@
 <p align="left">
     Professional Computer Programmer / Software Engineer with a passion for Strict & Strong Typing, Unix Shells, Monolithic Architectures, and Mechanical Keyboards.
     <br><br>
-    Web technologies have always been a source of profound interest for me, and I have developed expertise in PHP, Rust, JavaScript, and CSS.
+    Web technologies have always been a source of profound interest for me, and I have developed expertise in PHP, Rust, CSS, and JavaScript.
     <br><br>
     With several years of experience, my primary focus and specialization lie in Full-Stack Monolithic Web Applications. Using frameworks such as Laravel, NextJS, NuxtJS, and custom WordPress CMS complex implementations. In addition, I am well-versed in Rust for CLI development. I possess exceptional proficiency in Bash Scripting and working with Unix-based systems and shells.
     <br><br>
