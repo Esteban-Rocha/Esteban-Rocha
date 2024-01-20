@@ -1,5 +1,5 @@
 <p align="left">
-    Professional Computer Programmer / Software Engineer with a passion for Strict & Strong Typing, Unix Shells, Monolithic Architectures, and Mechanical Keyboards.
+    Professional Computer Programmer / Software Engineer with a passion for "Low Level Languages, Unix Shells, Monolithic Architectures, and Mechanical Keyboards.
     <br><br>
     My interest for technology and software programming runs deep, accompanied by a skill set that includes C, Rust, PHP, CSS, and JavaScript.
     <br><br>
