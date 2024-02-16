@@ -3,7 +3,7 @@
     <br><br>
     My interest for technology and software programming runs deep, accompanied by a skill set that includes C, Rust, PHP, CSS, and JavaScript.
     <br><br>
-    With several years of experience, my primary focus and specialization revolves around Full-Stack Monolithic Web Applications. I excel in utilizing frameworks like Laravel, Nuxt.js, and implementing complex solutions in custom WordPress CMS environments. Furthermore, I have a strong command of C and Rust for CLI development and excel in Bash scripting, along with extensive experience in working with Unix-based systems and shells.
+    With several years of experience, my primary focus and specialization revolves around Full-Stack Monolithic Web Applications. I excel in building complex applications from scratch, architecting and developing in-house solutions tailored to meet unique business requirements. Beyond this, I bring over a decade of expertise, and mastery using frameworks such as Laravel, Next.js, Symfony and Tokio, along with a profound knowledge of sophisticated custom CMS environments, using WordPress, StoryBlok, HubSpot and Drupal.
     <br><br>
     I am a staunch advocate for best practices, placing a strong emphasis on writing clean code, ensuring optimal performance, and adhering to W3C Standards.
     <br><br>
